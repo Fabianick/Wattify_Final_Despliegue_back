@@ -1,7 +1,4 @@
 HELP.md
-target/
-.settings/
-.mvn/
 
 ### STS ###
 .apt_generated
